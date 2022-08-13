@@ -3,3 +3,5 @@
 Hola Mundo, bienvenidos.
 
 Otros cambios agregados.
+
+Este commit es para oficializar nuestra versión **1.0.0**.
