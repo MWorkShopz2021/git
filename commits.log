@@ -1,0 +1,104 @@
+commit 5273ad7da90e8dd00b34584929585ff2859980f7
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Sat Aug 13 18:34:33 2022 -0300
+
+    Agregando 2 parrafos
+
+commit 45d69488d33e51e976c42727eec51ff3136768b5
+Merge: 177b396 e105cb4
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Sat Aug 13 18:29:15 2022 -0300
+
+    Resolviendo conflictos en estaciones del año y fechas de inicio
+
+commit 177b3964262d31f5f36d866e8b6b27b8bdd32815
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Sat Aug 13 17:56:42 2022 -0300
+
+    Agregando estaciones del año con fechas de inicio
+
+commit e105cb4ea34077f998e58561a231975e36e7d028
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Sat Aug 13 17:56:42 2022 -0300
+
+    Agregando estaciones del año
+
+commit 38625689fdd08d21c4f52b71b7481298f131a964
+Merge: 9b328d1 5572b97
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Sat Aug 13 17:43:56 2022 -0300
+
+    Resolviendo conflicto merge main/html en index.html
+
+commit 5572b9759046726889952d6925bf6686caf93d1a
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Sat Aug 13 13:56:11 2022 -0300
+
+    Agregando index.js al index.html
+
+commit 9b328d13903d6dfbbefd27a56a4d5d002695cf5b
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Sat Aug 13 13:50:05 2022 -0300
+
+    Agregando style al index
+
+commit d8358f63f964f57e31298edc459215dba4067101
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Fri Aug 12 23:48:43 2022 -0300
+
+    Creando console.log en index.js
+
+commit a10d9e80f65d2ad8e6bcee41447df4e83c179d88
+Merge: 7c0f60a b2e63e6
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Fri Aug 12 23:46:46 2022 -0300
+
+    Merge branch 'js'
+
+commit b2e63e68f526f5636e7ac154f4123a582f4633d6
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Fri Aug 12 23:36:45 2022 -0300
+
+    Crear index.js
+
+commit 7c0f60aa12b54dc718d2d03ce6f16222e3c83598
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Fri Aug 12 23:27:59 2022 -0300
+
+    Crear style.css
+
+commit a2e5fc73073ca402d39ba1dd25c63a2e6b9e80ed
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Fri Aug 12 23:19:55 2022 -0300
+
+    Creado el index.htlm
+
+commit 92775cb0ee18ef18117af016248b463a6bd09424
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Fri Aug 12 21:29:46 2022 -0300
+
+    Ignorando archivos .exe
+
+commit ed04d43f2a68e6622db89f460e6dbdefd633db7a
+Author: MWorkShopz2021 <84162740+MWorkShopz2021@users.noreply.github.com>
+Date:   Mon Aug 8 22:54:22 2022 -0300
+
+    Creando licencia del repositorio
+
+commit d7a74f24a21ddf9fe1a83494b0e6bc0f8a13afc5
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Mon Aug 8 22:44:31 2022 -0300
+
+    Otros cambios
+
+commit 160e2c624c41806af2ec831534dbcd4439ee4e15
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Mon Aug 8 22:15:53 2022 -0300
+
+    Agregando cambios
+
+commit 67ff1b860a56639e74c49fe2396d292d3a85d1dc
+Author: Mike Sanz <mike.dj.sanz.2018@gmail.com>
+Date:   Mon Aug 8 22:11:38 2022 -0300
+
+    Agregando contenido inicial
